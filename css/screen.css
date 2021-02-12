@@ -139,6 +139,7 @@ a:focus {
 body{
     max-width: 40em;/*1 em = 16px root font-size*/
     margin: auto;
+    background: khaki;
 }
 
 /*
